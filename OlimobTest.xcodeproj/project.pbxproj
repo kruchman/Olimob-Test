@@ -107,8 +107,7 @@
 				79F241402C84635800F9D3FA /* Managers */,
 				79A0CB332C83106100ADD52D /* Models */,
 				79A0CB2B2C80D8FE00ADD52D /* Views */,
-				79A0CB1B2C80BC1700ADD52D /* Assets.xcassets */,
-				79F241542C8780BB00F9D3FA /* noisySound.mp3 */,
+				79F2415F2C8881E800F9D3FA /* Assets */,
 				79A0CB1D2C80BC1700ADD52D /* Preview Content */,
 			);
 			path = OlimobTest;
@@ -212,6 +211,15 @@
 				79F241522C87800000F9D3FA /* SoundManager.swift */,
 			);
 			path = Managers;
+			sourceTree = "<group>";
+		};
+		79F2415F2C8881E800F9D3FA /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				79F241542C8780BB00F9D3FA /* noisySound.mp3 */,
+				79A0CB1B2C80BC1700ADD52D /* Assets.xcassets */,
+			);
+			path = Assets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
